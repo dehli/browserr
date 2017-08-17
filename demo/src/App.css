@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.App-header {
+  background-color: #e7004e;
+  padding: 100px;
+  margin: 0;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}

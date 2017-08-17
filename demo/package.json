@@ -1,0 +1,15 @@
+{
+  "name": "browserr-demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.11",
+    "browserr": "file:../"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}

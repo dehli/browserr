@@ -1,0 +1,22 @@
+{
+  "name": "browserr",
+  "version": "0.0.1",
+  "description": "A tool to determine a user's browser... using errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehli/browserr.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "C.P. Dehli",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dehli/browserr/issues"
+  },
+  "homepage": "https://github.com/dehli/browserr#readme"
+}
